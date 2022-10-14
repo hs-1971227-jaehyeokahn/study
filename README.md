@@ -1,2 +1,2 @@
-# animated-guide
+# Study
 test repo for github study
